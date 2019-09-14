@@ -18,6 +18,7 @@ def using_pop(array)
 end
 continents = ["Africa", "North America", "South America","Asia", "Australia", "Oceania", "Antarctica"]
 using_pop(continents)
+continents.size
 
 def pop_with_args(array)
 2.times.array.pop
