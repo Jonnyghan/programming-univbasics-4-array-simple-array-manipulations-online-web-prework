@@ -20,6 +20,5 @@ continents = ["Africa", "North America", "South America","Asia", "Australia", "O
 using_pop(continents)
 
 def pop_with_args(array)
-array.pop
-array.pop 
+2.times.array.pop
 end
