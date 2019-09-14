@@ -25,4 +25,4 @@ array.pop
 array.pop
 end
 dog_breeds = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
-pop_with_args(dog_breeds)
+small_dogs = pop_with_args(dog_breeds)
