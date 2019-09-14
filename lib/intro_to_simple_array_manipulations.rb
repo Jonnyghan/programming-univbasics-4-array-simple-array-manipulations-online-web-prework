@@ -72,8 +72,16 @@ end
 instruments = ["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"]
 flat_array = using_flatten(instruments)
 
+def using_delete(array,string)
+  array.delete(string)
+end
 
+instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
+no_offense_steven = using_delete(instructors, "Steven")
 
+def using_delete_at(array,integer)
+  array.delete(integer)
+end
 
 
 
