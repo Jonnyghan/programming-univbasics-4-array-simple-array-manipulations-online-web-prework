@@ -21,8 +21,8 @@ using_pop(continents)
 continents.size
 
 def pop_with_args(array)
-array2 = array.pop
-array2.pop
+  array.pop
+  arry.pop
 end
 dog_breeds = ["Chihuahua", "Shiba Inu","Great Dane", "Golden Retriever"]
 small_dogs = pop_with_args(dog_breeds)
