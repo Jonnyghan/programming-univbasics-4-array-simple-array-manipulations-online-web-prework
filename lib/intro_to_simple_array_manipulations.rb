@@ -40,6 +40,9 @@ end
 ice_cream_brands = ["Blue Bell Creameries", "Ben & Jerry's", "Baskin Robbins", "Braum's", "Breyer's"]
 shift_with_args(ice_cream_brands)
 
+def using_concat(array,array2)
+  a
+
 
 
 
