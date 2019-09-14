@@ -30,4 +30,6 @@ def using_shift(array)
   array.shift
 end
 my_favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
-im_so_over_this_city = array.shift(my_favorite_cities)
+def im_so_over_this_city 
+array.shift(my_favorite_cities)
+end
