@@ -80,7 +80,7 @@ instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
 no_offense_steven = using_delete(instructors, "Steven")
 
 def using_delete_at(array,x)
-  array.delete(x)
+  array.delete_at(x)
 end
 
 famous_robots = ["Johnny 5", "R2D2", "Robocop"]
