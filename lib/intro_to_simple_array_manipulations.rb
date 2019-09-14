@@ -24,3 +24,4 @@ def pop_with_args(array)
 2.times.array.pop
 end
 dog_breeds = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
+pop_with_args(dog_breeds)
