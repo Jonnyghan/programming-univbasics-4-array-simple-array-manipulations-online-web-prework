@@ -41,9 +41,11 @@ ice_cream_brands = ["Blue Bell Creameries", "Ben & Jerry's", "Baskin Robbins", "
 shift_with_args(ice_cream_brands)
 
 def using_concat(array,array2)
-  a
-
-
+  array.concat(array2)
+end
+my_favorite_things = ["raindrops on roses", "whiskers on kittens"]
+    more_favs = ["sports cars", "flatiron school"]
+def all_my_favorites
 
 
 
