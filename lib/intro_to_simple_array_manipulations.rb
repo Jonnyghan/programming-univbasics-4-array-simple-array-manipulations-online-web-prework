@@ -11,7 +11,15 @@ end
 bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
 new_neighborhood = "Staten Island"
 updated_array = using_unshift(bouroughs_in_nyc, new_neighborhood)
+updated_array.size
 
 def using_pop(array)
   array.pop 
+end
+continents = ["Africa", "North America", "South America","Asia", "Australia", "Oceania", "Antarctica"]
+using_pop(continents)
+
+def pop_with_args(array)
+array2 = array.pop
+array2.pop
 end
