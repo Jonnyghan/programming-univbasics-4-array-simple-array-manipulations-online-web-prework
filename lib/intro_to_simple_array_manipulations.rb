@@ -50,13 +50,13 @@ def all_my_favs
 end
 
 def using_insert(array,element)
-array.insert(element)
+array.insert(3,element)
 end
 
 list_of_programming_languages = ["Ruby", "JavaScript", "Java", "C#", "Objective C", "C++", "PHP"]
 another_language = "Python"
 
-new_array = using_insert(list_of_programming_languages,)
+new_array = using_insert(list_of_programming_languages,another_language)
 
 
 
