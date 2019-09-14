@@ -34,5 +34,8 @@ def im_so_over_this_city
 array.shift(my_favorite_cities)
 end
 
-def shift_with_args
+def shift_with_args(array)
+  array.shift(2)
+end
+
   
