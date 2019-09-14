@@ -53,7 +53,7 @@ def using_insert(array,x)
 array.insert(x)
 end
 
-["Ruby", "JavaScript", "Java", "C#", "Objective C", "C++", "PHP"]
+list_of_programming_languages = ["Ruby", "JavaScript", "Java", "C#", "Objective C", "C++", "PHP"]
 
 
 
